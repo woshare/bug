@@ -69,3 +69,9 @@
 
 ### 内存错误现象与原因
 >1，参考：https://www.ibm.com/developerworks/cn/aix/library/au-memorytechniques.html 觉得很不错，讲的一些编程上的问题    
+
+### vmstat
+>1，vmstat测量上下文切换次数，cs表示
+
+### jstack
+>1，查看线程情况
